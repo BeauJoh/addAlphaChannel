@@ -9,6 +9,9 @@
 /* Begin PBXBuildFile section */
 		8BC6A497140B404200610E2F /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8BC6A496140B404200610E2F /* main.cpp */; };
 		8BC6A499140B404200610E2F /* addAlphaChannel.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 8BC6A498140B404200610E2F /* addAlphaChannel.1 */; };
+		8BC6A4A3140B405E00610E2F /* RGBAUtilities.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8BC6A4A0140B405E00610E2F /* RGBAUtilities.cpp */; };
+		8BC6A4A4140B405E00610E2F /* FileHandler.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8BC6A4A1140B405E00610E2F /* FileHandler.cpp */; };
+		8BC6A4A6140B40ED00610E2F /* libpng.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8BC6A4A5140B40ED00610E2F /* libpng.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +31,11 @@
 		8BC6A492140B404200610E2F /* addAlphaChannel */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = addAlphaChannel; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BC6A496140B404200610E2F /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		8BC6A498140B404200610E2F /* addAlphaChannel.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = addAlphaChannel.1; sourceTree = "<group>"; };
+		8BC6A49F140B405E00610E2F /* RGBAUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RGBAUtilities.h; sourceTree = "<group>"; };
+		8BC6A4A0140B405E00610E2F /* RGBAUtilities.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RGBAUtilities.cpp; sourceTree = "<group>"; };
+		8BC6A4A1140B405E00610E2F /* FileHandler.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FileHandler.cpp; sourceTree = "<group>"; };
+		8BC6A4A2140B405E00610E2F /* FileHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FileHandler.h; sourceTree = "<group>"; };
+		8BC6A4A5140B40ED00610E2F /* libpng.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = libpng.framework; path = Library/Frameworks/libpng.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +43,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8BC6A4A6140B40ED00610E2F /* libpng.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -44,6 +53,7 @@
 		8BC6A487140B404200610E2F = {
 			isa = PBXGroup;
 			children = (
+				8BC6A4A5140B40ED00610E2F /* libpng.framework */,
 				8BC6A495140B404200610E2F /* addAlphaChannel */,
 				8BC6A493140B404200610E2F /* Products */,
 			);
@@ -62,6 +72,10 @@
 			children = (
 				8BC6A496140B404200610E2F /* main.cpp */,
 				8BC6A498140B404200610E2F /* addAlphaChannel.1 */,
+				8BC6A49F140B405E00610E2F /* RGBAUtilities.h */,
+				8BC6A4A0140B405E00610E2F /* RGBAUtilities.cpp */,
+				8BC6A4A1140B405E00610E2F /* FileHandler.cpp */,
+				8BC6A4A2140B405E00610E2F /* FileHandler.h */,
 			);
 			path = addAlphaChannel;
 			sourceTree = "<group>";
@@ -117,6 +131,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				8BC6A497140B404200610E2F /* main.cpp in Sources */,
+				8BC6A4A3140B405E00610E2F /* RGBAUtilities.cpp in Sources */,
+				8BC6A4A4140B405E00610E2F /* FileHandler.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
