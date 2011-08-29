@@ -18,50 +18,50 @@ t1292986614
 s717240
 
 N/Users/beau/Documents/FourthYear/miscProjects/addAlphaChannel/DerivedData/addAlphaChannel/Build/Intermediates/addAlphaChannel.build/Debug/addAlphaChannel.build/Objects-normal/x86_64/FileHandler.o
-t1314611409
+t1314655357
 s166148
 
 N/Users/beau/Documents/FourthYear/miscProjects/addAlphaChannel/DerivedData/addAlphaChannel/Build/Intermediates/addAlphaChannel.build/Debug/addAlphaChannel.build/Objects-normal/x86_64/RGBAUtilities.o
-t1314598358
+t1314655357
 s43308
 
 N/Users/beau/Documents/FourthYear/miscProjects/addAlphaChannel/DerivedData/addAlphaChannel/Build/Intermediates/addAlphaChannel.build/Debug/addAlphaChannel.build/Objects-normal/x86_64/addAlphaChannel.LinkFileList
-c000000004E5B09000000000000000247
-t1314588928
+c000000004E5C0C7D0000000000000247
+t1314655357
 s583
 
 N/Users/beau/Documents/FourthYear/miscProjects/addAlphaChannel/DerivedData/addAlphaChannel/Build/Intermediates/addAlphaChannel.build/Debug/addAlphaChannel.build/Objects-normal/x86_64/main.o
-t1314609119
+t1314655357
 s30840
 
 N/Users/beau/Documents/FourthYear/miscProjects/addAlphaChannel/DerivedData/addAlphaChannel/Build/Products/Debug/addAlphaChannel
-t1314611409
+t1314655357
 s106228
 
 N/Users/beau/Documents/FourthYear/miscProjects/addAlphaChannel/addAlphaChannel/FileHandler.cpp
-c000000004E5B60D100000000000018D6
-t1314611409
+c000000004E5C0C7D00000000000018D6
+t1314655357
 s6358
 
 N/Users/beau/Documents/FourthYear/miscProjects/addAlphaChannel/addAlphaChannel/FileHandler.h
-c000000004E5B445A0000000000000253
-t1314604122
+c000000004E5C0C7D0000000000000253
+t1314655357
 s595
 
 N/Users/beau/Documents/FourthYear/miscProjects/addAlphaChannel/addAlphaChannel/RGBAUtilities.cpp
-c000000004E5B2DD60000000000003CBF
-t1314598358
+c000000004E5C0C7D0000000000003CBF
+t1314655357
 s15551
 
 N/Users/beau/Documents/FourthYear/miscProjects/addAlphaChannel/addAlphaChannel/RGBAUtilities.h
-c000000004E5B1F5A00000000000009B3
-t1314594650
+c000000004E5C0C7D00000000000009B3
+t1314655357
 s2483
 
 N/Users/beau/Documents/FourthYear/miscProjects/addAlphaChannel/addAlphaChannel/main.cpp
-c000000004E5B57DE00000000000010D0
-t1314609118
-s4304
+c000000004E5C0C7D0000000000001181
+t1314655357
+s4481
 
 CBuild AST from /Users/beau/Documents/FourthYear/miscProjects/addAlphaChannel/addAlphaChannel/FileHandler.cpp
 r0
@@ -74,7 +74,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies40db82309a0bb441^7f3484309a0bb441^---0#1#0#--18"Check dependencies
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies0e2dd2bd4b0cb441^e1b2d2bd4b0cb441^---0#1#0#--18"Check dependencies
 
 CCompileC DerivedData/addAlphaChannel/Build/Intermediates/addAlphaChannel.build/Debug/addAlphaChannel.build/Objects-normal/x86_64/FileHandler.o /Users/beau/Documents/FourthYear/miscProjects/addAlphaChannel/addAlphaChannel/FileHandler.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 s336304209.305517
